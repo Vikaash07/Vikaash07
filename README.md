@@ -1,6 +1,6 @@
 # **Vikaash B**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DHIWAHAR-K&label=Profile%20views&color=0e75b6&style=flat" alt="DHIWAHAR-K" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikaash07&label=Profile%20views&color=0e75b6&style=flat" alt="Vikaash07" /> </p>
 
 ## 🌐 **Socials**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vikaash_178/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikaash-b-b2a543258/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/BVikaash_21) 
